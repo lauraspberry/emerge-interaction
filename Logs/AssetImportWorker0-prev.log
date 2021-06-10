@@ -1,0 +1,76 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.8f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/studypei/Files/Code/interaction
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51387
+Successfully changed project path to: /Users/studypei/Files/Code/interaction
+/Users/studypei/Files/Code/interaction
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 54.10 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 18.69 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.8f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/studypei/Files/Code/interaction/Assets
+GfxDevice: creating device client; threaded=0
+2021-06-10 15:37:46.093 Unity[4132:112319] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2021-06-10 15:37:46.094 Unity[4132:112319] Metal devices available: 1
+2021-06-10 15:37:46.094 Unity[4132:112319] 0: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2021-06-10 15:37:46.094 Unity[4132:112319] Using device Intel(R) Iris(TM) Plus Graphics 655 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 655
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.8f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.8f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.8f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56132
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.8f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000580 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 61.83 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.60 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.494 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000919 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.59 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.166 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.8f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.61 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.56 ms.
+Unloading 1659 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 149.9 MB.
+System memory in use after: 149.7 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 2081.
+Total: 2.711896 ms (FindLiveObjects: 0.203656 ms CreateObjectMapping: 0.060386 ms MarkObjects: 2.074505 ms  DeleteObjects: 0.372571 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(43e4163da59a44087a45883b3cd06264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(43e4163da59a44087a45883b3cd06264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37dded88866cc97cc644ccce6a3d6e33') in 0.003506 seconds
+  Import took 0.007101 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
