@@ -144,7 +144,7 @@
 78-->/Users/studypei/Files/Code/emerge-interaction/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:5-101
 79            android:name="unity.build-id"
 79-->/Users/studypei/Files/Code/emerge-interaction/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:16-45
-80            android:value="8c924921-bb62-4951-bef9-13a148117a05" />
+80            android:value="7edde06c-0ab8-410e-8477-f6dc982031cd" />
 80-->/Users/studypei/Files/Code/emerge-interaction/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:46-98
 81        <meta-data
 81-->/Users/studypei/Files/Code/emerge-interaction/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:5-97

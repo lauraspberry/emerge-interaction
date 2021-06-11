@@ -810,3 +810,159 @@ System memory in use after: 175.9 MB.
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2251.
 Total: 31.558951 ms (FindLiveObjects: 0.873106 ms CreateObjectMapping: 0.116392 ms MarkObjects: 30.088305 ms  DeleteObjects: 0.479725 ms)
 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 14.62 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.94 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 176.1 MB.
+System memory in use after: 175.9 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2251.
+Total: 21.276731 ms (FindLiveObjects: 0.712909 ms CreateObjectMapping: 0.077482 ms MarkObjects: 19.877411 ms  DeleteObjects: 0.607854 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1587.973980 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Models/Black Bishop.dae
+  artifactKey: Guid(66ad00b166b914e47acce78daea25aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Models/Black Bishop.dae using Guid(66ad00b166b914e47acce78daea25aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a6d00298170097d077ab6c7f8ed42ab') in 0.563837 seconds
+  Import took 0.590265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000936 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Models/Board.dae
+  artifactKey: Guid(f10c2e64b5383f04f840dea170590ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Models/Board.dae using Guid(f10c2e64b5383f04f840dea170590ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c415e09aedc87f27a00efa2174a4b3f') in 0.038577 seconds
+  Import took 0.042072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Models/White Knight.dae
+  artifactKey: Guid(69faab6ae9c00a848a82d036ac8c75d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Models/White Knight.dae using Guid(69faab6ae9c00a848a82d036ac8c75d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61240de88f15a8b87b184b16d8763260') in 0.032640 seconds
+  Import took 0.036602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Models/White Pawn.dae
+  artifactKey: Guid(6730016ba0e329c499d89e81bd550346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Models/White Pawn.dae using Guid(6730016ba0e329c499d89e81bd550346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '305d437e32720c99bfff4d45d528585f') in 0.014238 seconds
+  Import took 0.017566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Models/White King.dae
+  artifactKey: Guid(763435837405bc24691af77936be360b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Models/White King.dae using Guid(763435837405bc24691af77936be360b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '051fab1b8de7df69abf417495242d756') in 0.031541 seconds
+  Import took 0.034924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Models/Black Knight.dae
+  artifactKey: Guid(639050e749c3ce444a196d84e803b067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Models/Black Knight.dae using Guid(639050e749c3ce444a196d84e803b067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89e5eb075d0a8760bd780e74ddf9f610') in 0.032850 seconds
+  Import took 0.036162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Models/White Rook.dae
+  artifactKey: Guid(695bd15b69d9eac408b599c22f9de55d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Models/White Rook.dae using Guid(695bd15b69d9eac408b599c22f9de55d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '205d38a82d508f729d2ac0639b309973') in 0.037615 seconds
+  Import took 0.040620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000524 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Models/Black Rook.dae
+  artifactKey: Guid(c61872173bf5220469786c549644854f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Models/Black Rook.dae using Guid(c61872173bf5220469786c549644854f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8750b8249170d87ebc84cdcb9705232b') in 0.050300 seconds
+  Import took 0.053373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Models/Black Queen.dae
+  artifactKey: Guid(5d7a66b35fd81564380721b6bfcaaa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Models/Black Queen.dae using Guid(5d7a66b35fd81564380721b6bfcaaa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1449624b9e68ced1353b8d56f16d60d4') in 0.038158 seconds
+  Import took 0.041243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Models/Black King.dae
+  artifactKey: Guid(a1edea9a41e71514f94a737abaf1410c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Models/Black King.dae using Guid(a1edea9a41e71514f94a737abaf1410c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '861d177a63c587c4098d6366f0b23d6f') in 0.013168 seconds
+  Import took 0.015780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Models/White Bishop.dae
+  artifactKey: Guid(1e1130c2d0732f44eb82b057a9dcf58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Models/White Bishop.dae using Guid(1e1130c2d0732f44eb82b057a9dcf58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '542e55818d4da6a1bcc056c6bcbfb7f5') in 0.012202 seconds
+  Import took 0.014805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Models/Black Pawn.dae
+  artifactKey: Guid(8fbcce33444d4ce4db5b61f8d0eeb7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Models/Black Pawn.dae using Guid(8fbcce33444d4ce4db5b61f8d0eeb7aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdf2d6b88be23ab0b26461309d94977d') in 0.015821 seconds
+  Import took 0.018474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Models/White Queen.dae
+  artifactKey: Guid(3d88c9550087ec84c95090f5be583f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Models/White Queen.dae using Guid(3d88c9550087ec84c95090f5be583f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef3e73b6e864efba389a9caa6e1414e') in 0.019315 seconds
+  Import took 0.022335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.138465 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Materials/Chess Material.mat
+  artifactKey: Guid(fdf806cb46d6a40418581d1568ff1c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Materials/Chess Material.mat using Guid(fdf806cb46d6a40418581d1568ff1c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e16ab210b807d6e36531cfde2434a17a') in 0.065419 seconds
+  Import took 0.069551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.316847 seconds.
+  path: Assets/Oculus/LipSync/Oculus.LipSync.asmdef
+  artifactKey: Guid(bf7126905a54c9746b9c475d69312766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/LipSync/Oculus.LipSync.asmdef using Guid(bf7126905a54c9746b9c475d69312766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f7f6e95ace860c56929645943d6f12c') in 0.012816 seconds
+  Import took 0.017238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.316444 seconds.
+  path: Assets/Materials/wall.mat
+  artifactKey: Guid(043009ee7867640488c3f2792d5b9a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/wall.mat using Guid(043009ee7867640488c3f2792d5b9a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34a74087738f7899a545665c9be0785c') in 0.014164 seconds
+  Import took 0.017249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.997018 seconds.
+  path: Assets/Materials/wall.mat
+  artifactKey: Guid(043009ee7867640488c3f2792d5b9a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/wall.mat using Guid(043009ee7867640488c3f2792d5b9a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ed628665020c8af635ba5f48966702') in 0.014153 seconds
+  Import took 0.017389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.367342 seconds.
+  path: Assets/Materials/black.mat
+  artifactKey: Guid(8b825f16896af4e0e94033ef2dd32321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/black.mat using Guid(8b825f16896af4e0e94033ef2dd32321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c03c9bc60b4a10321a2522f21462fc3') in 0.012480 seconds
+  Import took 0.016887 seconds .
+
