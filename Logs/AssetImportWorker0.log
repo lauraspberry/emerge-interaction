@@ -638,3 +638,175 @@ Received Import Request.
 Start importing Assets/Oculus/VR/Scripts/OVRInput.cs using Guid(d210caf8a50e1954c80690fa858572ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bca3365bdb478a4b9405f3cdadcc03b') in 0.002881 seconds
   Import took 0.006750 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 440.631202 seconds.
+  path: Assets/Oculus/VR/Scripts/Editor/OVRManagerEditor.cs
+  artifactKey: Guid(9b07d18088099f94fa00fc15e64b2b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/Editor/OVRManagerEditor.cs using Guid(9b07d18088099f94fa00fc15e64b2b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a7ce12f2afb9a3119df0c200c79df10') in 0.010577 seconds
+  Import took 0.034599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001838 seconds.
+  path: Assets/Oculus/VR/Scripts/Editor/OVRManagerEditor.cs
+  artifactKey: Guid(9b07d18088099f94fa00fc15e64b2b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/Editor/OVRManagerEditor.cs using Guid(9b07d18088099f94fa00fc15e64b2b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a7ce12f2afb9a3119df0c200c79df10') in 0.002594 seconds
+  Import took 0.007336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.996911 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRManager.cs
+  artifactKey: Guid(7e933e81d3c20c74ea6fdc708a67e3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRManager.cs using Guid(7e933e81d3c20c74ea6fdc708a67e3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29ac146e5ec38f27e746869a1271b304') in 0.001708 seconds
+  Import took 0.005807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000907 seconds.
+  path: Assets/Oculus/VR/Scripts/OVRManager.cs
+  artifactKey: Guid(7e933e81d3c20c74ea6fdc708a67e3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Scripts/OVRManager.cs using Guid(7e933e81d3c20c74ea6fdc708a67e3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29ac146e5ec38f27e746869a1271b304') in 0.001555 seconds
+  Import took 0.004857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 159.407183 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack
+  artifactKey: Guid(302069a9828a9f745991724fe9a1c5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack using Guid(302069a9828a9f745991724fe9a1c5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e8d2f6bf5b2b032cc6fc58a6f10606') in 0.003138 seconds
+  Import took 0.037003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.926225 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs
+  artifactKey: Guid(018db15951b6c0149b23b39bec397b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs using Guid(018db15951b6c0149b23b39bec397b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdd37a6d2e81e7fe17ade3ff69faa538') in 0.000949 seconds
+  Import took 0.005259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092029 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Bishop.prefab
+  artifactKey: Guid(a71fd906a2159e247ab4d632e46947db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Bishop.prefab using Guid(a71fd906a2159e247ab4d632e46947db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ae8648fa2de03a5b637abeece77d39') in 0.136609 seconds
+  Import took 0.141089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/White Knight.prefab
+  artifactKey: Guid(7248632fb471af143947a88a47eae959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/White Knight.prefab using Guid(7248632fb471af143947a88a47eae959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42d2bd2f9050dce0c8f66cfa279baf2') in 0.012773 seconds
+  Import took 0.015833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/White Bishop.prefab
+  artifactKey: Guid(cd05c23b470229c44a8d53d6e86225f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/White Bishop.prefab using Guid(cd05c23b470229c44a8d53d6e86225f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e858a9a9e37e1fc2900e5a3115b2247') in 0.028896 seconds
+  Import took 0.032767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Board.prefab
+  artifactKey: Guid(31270e9f38d5e7a448ae050b9633fce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Board.prefab using Guid(31270e9f38d5e7a448ae050b9633fce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '561de73646d4ded341d9a869375f414c') in 0.010846 seconds
+  Import took 0.013842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Pawn.prefab
+  artifactKey: Guid(edd4f3477fd5a8b4599bf6c0dac39f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Pawn.prefab using Guid(edd4f3477fd5a8b4599bf6c0dac39f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc9757650676a7d0348795baa100132') in 0.025160 seconds
+  Import took 0.028041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000701 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/White Pawn.prefab
+  artifactKey: Guid(48d5ea4ff810d0e4ea36af7235dd5fd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/White Pawn.prefab using Guid(48d5ea4ff810d0e4ea36af7235dd5fd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729bfcd7d8bb66a6cbaa553a6593405c') in 0.032172 seconds
+  Import took 0.035709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Bishop.prefab
+  artifactKey: Guid(a71fd906a2159e247ab4d632e46947db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Bishop.prefab using Guid(a71fd906a2159e247ab4d632e46947db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ae8648fa2de03a5b637abeece77d39') in 0.021872 seconds
+  Import took 0.025297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/White Rook.prefab
+  artifactKey: Guid(43ef2ba32fda59c42a1410ea490d494b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/White Rook.prefab using Guid(43ef2ba32fda59c42a1410ea490d494b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6306328bf776fbe99580b733f671d9d7') in 0.033909 seconds
+  Import took 0.037228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Black King.prefab
+  artifactKey: Guid(861e95a585868b643bf2e4a1d0ae63b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Black King.prefab using Guid(861e95a585868b643bf2e4a1d0ae63b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d0ff190923b6e9853948f3e46d9c580') in 0.028043 seconds
+  Import took 0.031032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Rook.prefab
+  artifactKey: Guid(9d3e9c36668dcfe44b524760a4c3a3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Rook.prefab using Guid(9d3e9c36668dcfe44b524760a4c3a3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2132c4f1bc72ea18bff5e5d33e8d5e') in 0.032101 seconds
+  Import took 0.035471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Knight.prefab
+  artifactKey: Guid(b6c7ad354ac474944ba26b2895a59759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Knight.prefab using Guid(b6c7ad354ac474944ba26b2895a59759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b02fc980b1d01a6a954a4f4c96add70c') in 0.028958 seconds
+  Import took 0.031923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/White Queen.prefab
+  artifactKey: Guid(6f38c700bedefe64f8364436528e5c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/White Queen.prefab using Guid(6f38c700bedefe64f8364436528e5c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69f649cc0cc22220fb806cd611356558') in 0.011839 seconds
+  Import took 0.014421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Queen.prefab
+  artifactKey: Guid(1f7a3b3d104b8e44cb39f5356ae1d0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/Black Queen.prefab using Guid(1f7a3b3d104b8e44cb39f5356ae1d0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb2f45a4a3434e53d1a4b6f4854a5fc') in 0.011163 seconds
+  Import took 0.013855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/BrokenVector/LowpolyChessPack/Prefabs/White King.prefab
+  artifactKey: Guid(9e4e635002b6a524ca896adb28e8e388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowpolyChessPack/Prefabs/White King.prefab using Guid(9e4e635002b6a524ca896adb28e8e388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfde69d5858832724784e021619b7f7a') in 0.010491 seconds
+  Import took 0.013315 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 20.53 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 1.30 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 176.1 MB.
+System memory in use after: 175.9 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2251.
+Total: 31.558951 ms (FindLiveObjects: 0.873106 ms CreateObjectMapping: 0.116392 ms MarkObjects: 30.088305 ms  DeleteObjects: 0.479725 ms)
+
